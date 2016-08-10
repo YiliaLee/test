@@ -12,6 +12,7 @@ namespace 委托
             Mydelegate md = new Mydelegate(M1);
             md();
             Console.WriteLine("OK");
+            Console.WriteLine("test....");
             Console.ReadKey();
         }
         static void M1()
