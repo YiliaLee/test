@@ -18,6 +18,9 @@ namespace 委托
         {
             Console.WriteLine("11111");
         }
+        static void test2()
+        { 
+        }
     }
     public delegate void Mydelegate();
 }
