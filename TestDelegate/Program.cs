@@ -13,6 +13,7 @@ namespace 委托
             md();
             Console.WriteLine("OK");
             Console.WriteLine("test....");
+            Console.WriteLine("test0811");
             Console.ReadKey();
         }
         static void M1()
